@@ -1,2 +1,3 @@
 apple a day keep doctor away
 oranges are also good for health
+save, stage, commit, push
