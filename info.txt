@@ -2,3 +2,4 @@ apple a day keep doctor away
 oranges are also good for health
 save, stage, commit, push
 git is fast version control system
+git has become a standard
